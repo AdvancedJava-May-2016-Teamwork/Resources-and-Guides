@@ -1,0 +1,8 @@
+1. Choose a Java-based game.It could be:
+-a well-known game like Minesweeper, Tetris or Xonix 
+-a game designed by your team
+-a Role-Play Game (RPG)
+
+2.What platforms, development tools and team collaboration tools we prefer to use;
+2.1.Platforms
+http://www3.ntu.edu.sg/home/ehchua/programming/java/J8d_Game_Framework.html
